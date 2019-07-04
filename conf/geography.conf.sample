@@ -1,0 +1,4 @@
+db_name = 'klx_xge'
+shiredb_name = 'geography'
+mysql_db_name = 'klx_ge'
+types = []

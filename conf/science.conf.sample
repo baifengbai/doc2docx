@@ -1,0 +1,5 @@
+db_name = 'klx_xsc'
+shiredb_name = 'science'
+mysql_db_name = 'klx_sc'
+taurus_db_name = 'taurus_sc'
+types = []

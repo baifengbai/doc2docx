@@ -1,0 +1,4 @@
+db_name = 'taurus_bi'
+xdb_name = 'klx_xbi'
+mysql_db_name = 'klx_bi'
+types = [3001, 3002, 3003, 3004, 3005, 3006]

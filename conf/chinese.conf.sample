@@ -1,0 +1,4 @@
+db_name = 'klx_xchi'
+shiredb_name = 'chinese'
+mysql_db_name = 'klx_chi'
+types = []

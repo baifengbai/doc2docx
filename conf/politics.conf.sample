@@ -1,0 +1,4 @@
+db_name = 'klx_xpo'
+shiredb_name = 'politics'
+mysql_db_name = 'klx_po'
+types = []

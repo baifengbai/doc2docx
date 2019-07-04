@@ -1,0 +1,4 @@
+db_name = 'taurus_math'
+xdb_name = 'klx_xmath'
+mysql_db_name = 'klx_math'
+types = [1001, 1002, 1003]

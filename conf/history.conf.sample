@@ -1,0 +1,4 @@
+db_name = 'klx_xhi'
+shiredb_name = 'history'
+mysql_db_name = 'klx_hi'
+types = []

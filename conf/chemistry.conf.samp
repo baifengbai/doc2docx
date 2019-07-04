@@ -1,0 +1,4 @@
+db_name = 'taurus_ch'
+xdb_name = 'klx_xch'
+mysql_db_name = 'klx_ch'
+types = [4001, 4002, 4003]
